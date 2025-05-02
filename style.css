@@ -1,7 +1,20 @@
 h1 {
     text-align: center;
 }
-#bg01 {
+
+h2 {
+    text-align: center;
+}
+
+body {
     background-repeat: repeat;
     background-image: url(/backgrounds/034C.jpg);
+}
+
+table {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
 }
